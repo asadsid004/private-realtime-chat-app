@@ -8,19 +8,19 @@ The app creates a short-lived room, restricts it to **max 2 participants**, pers
 
 ## Table of contents
 
-- Overview
-- Features
-- Tech stack
-- Project structure
-- How it works (end-to-end)
-- API (HTTP)
-- Realtime events
-- Data model (Redis keys)
-- Environment variables
-- Local development
-- Production notes
-- Troubleshooting
-- Security notes
+- [Overview](#overview)
+- [Features](#features)
+- [Tech stack](#tech-stack)
+- [Project structure](#project-structure)
+- [How it works (end-to-end)](#how-it-works-end-to-end)
+- [API (HTTP)](#api-http)
+- [Realtime events](#realtime-events)
+- [Data model (Redis keys)](#data-model-redis-keys)
+- [Environment variables](#environment-variables)
+- [Local development](#local-development)
+- [Production notes](#production-notes)
+- [Troubleshooting](#troubleshooting)
+- [Security notes](#security-notes)
 
 ---
 
